@@ -1,7 +1,7 @@
 
 # Node.js README.md Generator
 
-![MIT License Badge](https://img.shields.io/badge/license-MIT-green)
+![ISC License Badge](https://img.shields.io/badge/License-ISC-blue.svg)
 
 ## Description
 This project will allow users to create a README.md file dynamically by answering the given prompts.
@@ -16,14 +16,14 @@ This project will allow users to create a README.md file dynamically by answerin
 - [Deployed Link](#deployed-link)
 
 ## Installation
-The only requirement is 'inquirer'
+The only requirement is to install 'inquirer'
 
 ## Usage
 Run the index.js file in node.js and answer the prompts. Then update the demo img or gif of the working project
 ![Screenshot of Project](assets/images/screenshot.png)
 
 ## License
-MIT License
+ISC
 
 ## How to Contribute
 Contact me via email and if I choose to do so, will grant you contrib access to the repo.

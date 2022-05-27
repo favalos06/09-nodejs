@@ -25,7 +25,7 @@ const questions = [
   },
   {
     type: "list",
-    choices: ["MIT License", "Apache License 2.0", "GNU GPLv3"],
+    choices: ["MIT License", "ISC", "Apache License 2.0", "GNU GPLv3"],
     name: "license",
     message: "Choose applicable licenses.",
   },
@@ -110,7 +110,10 @@ function init() {
       if (answers.license === "MIT License") {
         badge =
           "![MIT License Badge](https://img.shields.io/badge/license-MIT-green)";
-      } else if (answers.license === "Apache License 2.0") {
+      } else if (answers.license === "ISC") {
+        badge =
+          "![ISC License Badge](https://img.shields.io/badge/License-ISC-blue.svg)";
+        } else if (answers.license === "Apache License 2.0") {
         badge =
           "![Apache License Badge](https://img.shields.io/badge/license-Apache-blue)";
       } else if (answers.license === "GNU GPLv3") {
