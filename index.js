@@ -94,7 +94,7 @@ ${answers.tests}
 
 ## Questions
 * Follow me on [GitHub](https://github.com/${answers.gitHubUserName})
-* Ask me question at ${answers.email}
+* Ask me questions at ${answers.email}
 
 ## Deployed Link
 ${answers.deployedLink}

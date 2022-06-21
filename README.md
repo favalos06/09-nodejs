@@ -33,7 +33,7 @@ Simply run node index.js in the terminal, type test for all the answers, and che
 
 ## Questions
 * Follow me on [GitHub](https://github.com/favalos06)
-* Ask me question at fernando.avalostorres91@gmail.com
+* Ask me questions at fernando.avalostorres91@gmail.com
 
 ## Deployed Link
 https://favalos06.github.io/09-nodejs/
